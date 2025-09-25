@@ -1,5 +1,11 @@
 # Easy_Challenges
-To start the challenges, please run the following command: 
+### To clone this git repo:
+```sh
+git clone https://github.com/Sandesh028/Easy_Challenges.git
+```
+
+
+### To start the challenges, please run the following command: 
 ```sh
 chmod +x setup.sh
 ```
